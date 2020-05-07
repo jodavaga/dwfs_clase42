@@ -1,4 +1,4 @@
 const calc = require('./calculadora');
 //import calc from './calculadora';
 
-console.log(calc.suma(23, 10));
+console.log(calc.suma(2, 1));
